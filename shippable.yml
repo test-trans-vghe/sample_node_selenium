@@ -1,4 +1,5 @@
-build_image: drydock/u14nodall:tip
+#build_image: drydock/u14nodall:tip
+build_image: drydock/u12nodall:tip
 
 language: node_js
 
